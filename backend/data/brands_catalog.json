@@ -1,0 +1,256 @@
+{
+  "brands": [
+    {
+      "brand_id": "brand_a",
+      "brand_name": "Brand A",
+      "category": "food/spices/cooking",
+      "description": "",
+      "positive_contexts": [
+        "cooking",
+        "kitchen",
+        "eating",
+        "family meal",
+        "recipe",
+        "food preparation",
+        "spices",
+        "seasoning",
+        "frying",
+        "boiling",
+        "homemade food",
+        "lunch",
+        "dinner",
+        "festival food"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "hospital",
+        "violence",
+        "illness",
+        "bathroom",
+        "accident",
+        "grief"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    },
+    {
+      "brand_id": "brand_b",
+      "brand_name": "Brand B",
+      "category": "personal care/skincare",
+      "description": "",
+      "positive_contexts": [
+        "face wash",
+        "skincare",
+        "bathroom",
+        "morning routine",
+        "hair care",
+        "sweating",
+        "heat",
+        "shower",
+        "washing face",
+        "moisturizer",
+        "cream",
+        "personal hygiene",
+        "self care",
+        "getting ready"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "violence",
+        "eating",
+        "accident",
+        "hospital",
+        "grief"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    },
+    {
+      "brand_id": "brand_c",
+      "brand_name": "Brand C",
+      "category": "beauty/cosmetics",
+      "description": "",
+      "positive_contexts": [
+        "make-up",
+        "getting ready",
+        "wedding",
+        "party",
+        "mirror",
+        "fashion",
+        "salon",
+        "lipstick",
+        "foundation",
+        "eyeliner",
+        "beauty",
+        "dressing",
+        "celebration",
+        "special occasion"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "violence",
+        "illness",
+        "accident",
+        "hospital",
+        "grief"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    },
+    {
+      "brand_id": "brand_d",
+      "brand_name": "Brand D",
+      "category": "telecom/connectivity",
+      "description": "",
+      "positive_contexts": [
+        "phone",
+        "mobile",
+        "calling",
+        "video call",
+        "messaging",
+        "internet",
+        "wifi",
+        "streaming",
+        "social media",
+        "working remotely",
+        "online meeting",
+        "travel",
+        "communication",
+        "family conversation"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "hospital",
+        "medical emergency",
+        "violence"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    },
+    {
+      "brand_id": "brand_e",
+      "brand_name": "Brand E",
+      "category": "automotive/mobility",
+      "description": "",
+      "positive_contexts": [
+        "car",
+        "automobile",
+        "driving",
+        "road trip",
+        "commuting",
+        "traffic",
+        "parking",
+        "highway",
+        "motorcycle",
+        "vehicle",
+        "road",
+        "journey",
+        "travel by car",
+        "family trip"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "hospital",
+        "violence",
+        "accident",
+        "injury",
+        "grief"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    },
+    {
+      "brand_id": "brand_f",
+      "brand_name": "Brand F",
+      "category": "fintech/digital payments",
+      "description": "",
+      "positive_contexts": [
+        "shopping",
+        "payment",
+        "mobile payment",
+        "digital wallet",
+        "banking",
+        "money transfer",
+        "bill payment",
+        "online shopping",
+        "checkout",
+        "merchant",
+        "salary",
+        "personal finance",
+        "transaction"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "hospital",
+        "violence",
+        "financial distress",
+        "grief"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    },
+    {
+      "brand_id": "brand_g",
+      "brand_name": "Brand G",
+      "category": "travel/hospitality",
+      "description": "",
+      "positive_contexts": [
+        "travel",
+        "vacation",
+        "holiday",
+        "hotel",
+        "resort",
+        "tourism",
+        "train journey",
+        "airport",
+        "beach",
+        "mountains",
+        "sightseeing",
+        "road trip",
+        "weekend trip",
+        "family vacation"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "hospital",
+        "violence",
+        "accident",
+        "illness",
+        "grief"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    },
+    {
+      "brand_id": "brand_h",
+      "brand_name": "Brand H",
+      "category": "e-commerce/online shopping",
+      "description": "",
+      "positive_contexts": [
+        "online shopping",
+        "shopping",
+        "delivery",
+        "package",
+        "parcel",
+        "e-commerce",
+        "mobile shopping",
+        "product browsing",
+        "checkout",
+        "fashion shopping",
+        "home shopping",
+        "electronics shopping",
+        "gift",
+        "purchase"
+      ],
+      "negative_contexts": [
+        "funeral",
+        "hospital",
+        "violence",
+        "accident",
+        "grief"
+      ],
+      "keywords": [],
+      "creative_url": ""
+    }
+  ]
+}
